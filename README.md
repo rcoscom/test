@@ -14,3 +14,5 @@ git commit
 0.2 --> Commit E
 
 This is going to be 0.2
+
+Now I can write from github!! woaaah!
